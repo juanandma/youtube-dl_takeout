@@ -8,4 +8,4 @@ Requires:
 
     Python 3 or Bash
 
-    youtube-dl standard instalation or via pip
+    youtube-dl standard installation or via pip
